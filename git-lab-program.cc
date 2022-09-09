@@ -2,7 +2,7 @@
  *        File: git-lab-program.cc
  *      Author: Mubarak Al Hamdan
  *        Date: 09/09/2022
- * Description: Add Description
+ * Description: git program test
  */
 
 #include <iostream>
